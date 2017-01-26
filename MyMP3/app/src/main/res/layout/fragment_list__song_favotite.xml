@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.merrychistmasnguyenquangtrung2016.mymp3.List_Song_favotite">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:id="@+id/danhsach_baihatyeuthich"
+        android:layout_height="match_parent"></ListView>
+
+</FrameLayout>
